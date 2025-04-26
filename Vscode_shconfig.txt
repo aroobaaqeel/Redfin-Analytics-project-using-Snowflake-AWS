@@ -1,0 +1,4 @@
+Host redfin-EC2-project
+    HostName 3.138.116.170
+    User ubuntu
+    IdentityFile G:\pmyls\Remote-key-connect-project.pem
